@@ -1,0 +1,7 @@
+##<< dictionary >>
+
+
+## find value with key 
+for i in range (0,len(feature_dict)):
+  feature_dict.get(i)                         # solution 1
+  feature_dict[i]                             # solution 2 
